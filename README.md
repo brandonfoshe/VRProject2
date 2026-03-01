@@ -1,6 +1,6 @@
 # Project 2 for Intro to VR 2026
-### Level 1 designed by Brandon
-### Level 2 designed by Lance
+### Level 1 designed by Brandon Foshe
+### Level 2 designed by Lance Galleher
 
 _______
 
